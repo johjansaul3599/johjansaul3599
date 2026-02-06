@@ -1,16 +1,17 @@
-## Hi there 👋
+🕵️ Sobre mí :
 
-<!--
-**johjansaul3599/johjansaul3599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+De la Ingeniería Química y el análisis de audiencias al mundo de los datos.
 
-Here are some ideas to get you started:
+🧪 Ingeniero Químico Metalúrgico (UNAM) con un enfoque analítico nato, transitando hacia la Ciencia de Datos para transformar ruido en decisiones estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Actualmente cursando el Bootcamp de Data Science en TripleTen (50% completado), donde desarrollo soluciones basadas en el ciclo de vida completo del dato.
+
+🎧 Mi formación previa en producción de eventos me dio una habilidad única: el análisis de comportamiento en tiempo real, la cual aplico hoy para validar hipótesis de negocio.
+
+🔬 Me apasiona la Estadística Inferencial; creo firmemente que una buena prueba de hipótesis ahorra miles de dólares en decisiones mal fundamentadas.
+
+📬 ¿Quieres colaborar o conectar?
+
+📧 Gmail: johjansaul@gmail.com
+
+💼 Mi LinkedIn: www.linkedin.com/in/johjan-saúl-hernández-jimeno
