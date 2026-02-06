@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Gemini_Generated_Image_31i88531i88531i8.png" alt="Johjan Saúl Hernández Jimeno - Data Analyst Banner" width="100%">
+</p>
+
 🕵️ Sobre mí :
 
 De la Ingeniería Química y el análisis de audiencias al mundo de los datos.
