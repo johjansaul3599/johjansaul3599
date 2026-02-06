@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Gemini_Generated_Image_31i88531i88531i8.png" alt="Johjan Saúl Hernández Jimeno - Data Analyst Banner" width="100%">
-</p>
+</p><img width="1024" height="1024" alt="Gemini_Generated_Image_31i88531i88531i8" src="https://github.com/user-attachments/assets/eaa19b4b-4fde-4045-941d-7540ac5f25e7" />
+
 
 🕵️ Sobre mí :
 
