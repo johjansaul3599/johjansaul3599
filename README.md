@@ -15,3 +15,9 @@ De la Ingeniería Química y el análisis de audiencias al mundo de los datos.
 📧 Gmail: johjansaul@gmail.com
 
 💼 Mi LinkedIn: www.linkedin.com/in/johjan-saúl-hernández-jimeno
+
+📌 Proyectos Destacados :
+
+Análisis de Videojuegos (Sprint 6): Estudio integral sobre el éxito comercial de títulos y ciclos de vida de consolas. Apliqué pruebas t-Student para validar diferencias de calidad percibida entre plataformas.
+
+[Recopilación de Datos Online]: Automatización de extracción de datos mediante SQL, APIs y Web Scraping para análisis de mercado.
